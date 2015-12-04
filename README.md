@@ -1,3 +1,5 @@
-# gavin-k.github.io
-gavin-k's blog
->Powerd by Jekyll
+###Gavin's Notes
+
+>Powered by Jekyll
+
+
