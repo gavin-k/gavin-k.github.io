@@ -8,7 +8,7 @@ author:
   url: "http://gavin-k.github.io"
 
 # Build settings
-baseurl: /gavin-k.github.io/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
