@@ -15,9 +15,13 @@ Here's my personal checklist while installing a Mac machine:
 - Alfred
 - Moom
 - Dash
+- RecentMenu ,otherwise available at [http://www.timschroeder.net/recentmenu/];
 - Homebrew: Installation: `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`, ortherwise available at [http://brew.sh/];
 - Haskell: Software available [online](https://www.haskell.org/platform/mac.html) or `brew install ghc haskell-platform cabal-install`;
 - Node: `brew install node` will install Node.js perfectly;
+- Add dotfiles config vim+tmux+zsh.
+- [tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+- [OSX Hacks for Yosemite](https://gist.github.com/brandonb927/3195465)
 - Set up SSH public key on various servers, including Github and Phabricators
 
 ### Sublime Modules:
