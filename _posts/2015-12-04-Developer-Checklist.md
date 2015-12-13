@@ -13,6 +13,7 @@ Here's my personal checklist while installing a Mac machine:
 
 - Xcode
 - Alfred
+- [Slate](https://github.com/jigish/slate)
 - Moom
 - Dash
 - RecentMenu ,otherwise available at [http://www.timschroeder.net/recentmenu/];
